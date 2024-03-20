@@ -6,6 +6,5 @@ namespace MusicApp.Models
     {
         public string? Name { get; set; }
         public string? PhotoUrl { get; set; }
-        public string? Role { get; set; }
     }
 }

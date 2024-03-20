@@ -3,16 +3,85 @@
   "WorkspaceRootPath": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\listenerlikessong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\listenerlikessong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\data\\migrations\\20240319235829_create-models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\data\\migrations\\20240319235829_create-models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\songinplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +106,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\listenerlikessong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\listenerlikessong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\models\\listenerlikesplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,82 +140,229 @@
       "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|c:\\users\\sfili\\onedrive\\desktop\\musicapp\\musicapp\\musicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{153279C0-C96D-4DFA-8605-5535F00D4507}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 357,
-          "SelectedChildIndex": 7,
+          "DockedHeight": 271,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240319235829_create-models.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
-              "RelativeToolTip": "MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA/wLkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:58:30.435Z"
+              "WhenOpened": "2024-03-20T11:32:38.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Song.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\Song.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Song.cs",
-              "RelativeToolTip": "MusicApp\\Models\\Song.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:14:07.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Comment.cs",
-              "RelativeToolTip": "MusicApp\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:31:05.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SongHasGenre.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongHasGenre.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\SongHasGenre.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongHasGenre.cs",
-              "RelativeToolTip": "MusicApp\\Models\\SongHasGenre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:37:35.573Z"
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:32:03.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Program.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Program.cs",
+              "RelativeToolTip": "MusicApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:18:29.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T12:03:56.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T12:04:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MusicApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T12:16:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:18:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T12:18:11.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MusicApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MusicApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T10:33:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MusicAppDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-20T10:51:38.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:07:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MusicApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MusicApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T11:53:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:53:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListenerLikesSong.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesSong.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\ListenerLikesSong.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesSong.cs",
+              "RelativeToolTip": "MusicApp\\Models\\ListenerLikesSong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:16:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\User.cs",
+              "RelativeToolTip": "MusicApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:05:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240320111203_removeAttributeRoleFromUser.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs",
+              "RelativeToolTip": "MusicApp\\Data\\Migrations\\20240320111203_removeAttributeRoleFromUser.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwF8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:12:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "SongHasLanguage.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongHasLanguage.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\SongHasLanguage.cs",
@@ -166,7 +374,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
+              "Title": "SongHasGenre.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongHasGenre.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\SongHasGenre.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongHasGenre.cs",
+              "RelativeToolTip": "MusicApp\\Models\\SongHasGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:37:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "SongInPlaylist.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\SongInPlaylist.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\SongInPlaylist.cs",
@@ -178,7 +398,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 25,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Comment.cs",
+              "RelativeToolTip": "MusicApp\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:31:05.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Listener.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\Listener.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Listener.cs",
+              "RelativeToolTip": "MusicApp\\Models\\Listener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:02:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Song.cs",
+              "RelativeToolTip": "MusicApp\\Models\\Song.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:14:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MusicApp\\Data\\ApplicationDbContext.cs",
@@ -191,7 +448,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
+              "Title": "20240319235829_create-models.cs",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
+              "RelativeToolTip": "MusicApp\\Data\\Migrations\\20240319235829_create-models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:58:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Playlist.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Playlist.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\Playlist.cs",
@@ -203,43 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Listener.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Listener.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\Listener.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Listener.cs",
-              "RelativeToolTip": "MusicApp\\Models\\Listener.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:02:04.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\User.cs",
-              "RelativeToolTip": "MusicApp\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T22:05:05.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListenerLikesSong.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesSong.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Models\\ListenerLikesSong.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesSong.cs",
-              "RelativeToolTip": "MusicApp\\Models\\ListenerLikesSong.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:16:52.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "ListenerLikesPlaylist.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesPlaylist.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\ListenerLikesPlaylist.cs",
@@ -251,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "ListenerLikesAlbum.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerLikesAlbum.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\ListenerLikesAlbum.cs",
@@ -263,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "ListenerFollowsArtist.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ListenerFollowsArtist.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\ListenerFollowsArtist.cs",
@@ -275,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "Artist.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Artist.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\Artist.cs",
@@ -287,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "Language.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Language.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\Language.cs",
@@ -299,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\Genre.cs",
@@ -311,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\Album.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\Album.cs",
@@ -323,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MusicApp\\Models\\ErrorViewModel.cs",
@@ -335,19 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "MusicApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:07:40.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\appsettings.json",
               "RelativeDocumentMoniker": "MusicApp\\appsettings.json",
@@ -356,22 +577,42 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-19T21:18:35.578Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Program.cs",
-              "RelativeDocumentMoniker": "MusicApp\\Program.cs",
-              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Program.cs",
-              "RelativeToolTip": "MusicApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T21:18:29.164Z"
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:39:12.283Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MusicApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sfili\\OneDrive\\Desktop\\MusicApp\\MusicApp\\MusicApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MusicApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:30:59.203Z",
+              "EditorCaption": ""
             }
           ]
         }
